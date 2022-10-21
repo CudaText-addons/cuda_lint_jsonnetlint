@@ -1,0 +1,6 @@
+[info]
+title=Linter for Jsonnet, using jsonnet-lint
+desc=Linter for CudaLint, adds support for Jsonnet lexer, using "jsonnet-lint"
+type=cudatext-plugin
+subdir=cuda_lint_jsonnetlint
+homepage=https://github.com/CudaText-addons/cuda_lint_jsonnetlint
